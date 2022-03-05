@@ -1,9 +1,8 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import Header from "../components/Header";
 
 function Home() {
   return (
-    <h2>Hi</h2>
+    <Header/>
   )
 }
 
