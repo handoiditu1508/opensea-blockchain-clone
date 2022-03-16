@@ -6,10 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@3rdweb/hooks": "^1.9.2",
+    "@3rdweb/sdk": "^1.42.0",
+    "@sanity/client": "^3.2.0",
+    "ethers": "^5.6.0",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.3.1"
+    "react-hot": "^0.0.1",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1",
+    "toast": "^0.3.47"
   },
   "devDependencies": {
     "@types/node": "17.0.4",

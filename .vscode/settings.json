@@ -1,0 +1,9 @@
+{
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "javascript, html",
+    },
+	"tailwindCSS.colorDecorators": true
+}
